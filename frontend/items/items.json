@@ -1,0 +1,5 @@
+[
+  {"id": "123", "course": "COM SCI 188", "title": "Natural Language Processing PDF", "price": "5.00", "comment": "lorem ipsum", "picture_url": "https://www.google.com", "contactEmail": "test@ucla.edu", "contactPhone": "1234567890", "seller_id": "9cef12a"},
+  {"id": "456", "course": "EC ENGR 143", "title": "Deep Learning Book", "price": "8.00", "isbn": "812984"},
+  {"id": "123456", "course": "ASIA AM 191A", "title": "Leaflet", "price": "0.00", "isbn": "942124"}
+]
