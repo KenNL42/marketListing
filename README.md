@@ -1,4 +1,4 @@
-# marketListing
+# Market Listing
 ## Craiglist-like website with Next.js and Graphql
 
 
